@@ -128,12 +128,12 @@
   font-size: 2rem;
   display: flex;
   align-items: center;
-  margin-bottom: 16px;
+
 }
 
 .website-rights {
   color: #fff;
-  margin-bottom: 16px;
+  
 }
 
 @media screen and (max-width: 820px) {
@@ -155,5 +155,11 @@
 
   .social-media-wrap {
     flex-direction: column;
+  }
+  .social-logo{
+    margin-bottom: 10px;
+  }
+  .website-rights {
+    margin-bottom: 10px;
   }
 }
